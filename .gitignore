@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Dataset (too large for GitHub, download from Kaggle)
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac and editor files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Zip files
+*.zip
