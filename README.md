@@ -124,4 +124,4 @@ Response:
 - The model only knows words from its training vocabulary, so it works best on
   English emails similar to the Enron and TREC data. It has not seen Hinglish or
   other languages.
-- The probability is the model's estimate, not a guarantee.
+- The probability is the model's estimate, not a guarantee.# spam-email-detector
